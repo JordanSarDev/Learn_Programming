@@ -1,0 +1,37 @@
+1. Construir una función que reciba como parámetro un entero y retorne su último dígito.
+
+2. Construir una función que reciba como parámetro un entero y retorne sus dos últimos dígitos.
+
+3. Construir una función que reciba como parámetro un entero y retorne la cantidad de dígitos.
+
+4. Construir una función que reciba como parámetro un entero y retorne la cantidad de dígitos
+pares.
+
+5. Construir una función que reciba como parámetro un entero y retorne la cantidad de dígitos
+primos.
+
+6. Construir una función que reciba como parámetro un entero y retorne el carácter al cual
+pertenece ese entero como código ASCII.
+
+7. Construir una función que reciba como parámetro un carácter y retorne el código ASCII
+asociado a él.
+
+8. Construir una función que reciba como parámetro un entero y retorne 1 si dicho entero está
+entre los 30 primeros elementos de la serie de Fibonacci. Deberá retornar 0 si no es así.
+
+9. Construir una función que reciba un entero y le calcule su factorial sabiendo que el factorial de
+un número es el resultado de multiplicar sucesivamente todos los enteros comprendidos entre
+1 y el número dado. El factorial de 0 es 1. No están definidos los factoriales de números
+negativos.
+
+10. Construir una función que reciba como parámetro un vector de 10 posicionees entras y retorne
+el mayor de los datos del vector.
+
+11. Construir una función que reciba como parámetro un vector de 10 posiciones enteras y retorne
+la posición en la cual se encuentra el mayor de los datos del vector.
+
+12. Construir una función que reciba como parámetro un vector de 10 posiciones enteras y retorne
+la cantidad de números primos almacenados en el vector.
+
+13. Construir una función que reciba como parámetro un vector de 10 posiciones enteras y retorne
+la posición del mayor número primo almacenado en el vector.
